@@ -2,6 +2,9 @@
 
 This project implements a Retrieval-Augmented Generation (RAG) system for answering questions about financial reports. It uses **LangChain**, **Azure OpenAI**, and **FAISS** for efficient retrieval and generation.
 
+## Screenshot
+![App Screenshot](assets/screenshot.png)
+
 ## Features
 
 *   **Data Ingestion**: Processes PDF, HTML, and JSON financial reports.
