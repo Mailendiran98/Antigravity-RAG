@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Data
+data/
+*.json
+*.txt
+*.pdf
+*.html
+
+# Logs
+*.log
+
+# OS
+.DS_Store
